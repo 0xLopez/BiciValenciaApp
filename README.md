@@ -7,6 +7,19 @@
 
 A simple iOS app that displays information on bikes in Valencia. It can be downloaded on the [App Store](https://apps.apple.com/app/bicivalencia/id1529249281).
 
+<p align="center">
+    <a href="https://apps.apple.com/app/bicivalencia/id1529249281">
+        <img src="AppStore.png" height=40>
+    </a>
+</p>
+
+
+## Contents
+- [Outline](#outline)
+- [Architecture](#architecture)
+- [Features](#features)
+- [Support](#support)
+
 
 ## Outline
 
@@ -39,3 +52,7 @@ The application makes use of protocols, which makes the app more testable using 
 - Swift Package Manager
 - Unit and integration tests
 - Dark mode
+
+
+## Support
+If you have any query or suggestion, please do not hesitate to contact us at bicivalencia.app@gmail.com
