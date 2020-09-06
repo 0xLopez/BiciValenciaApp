@@ -9,7 +9,7 @@ A simple iOS app that displays information on bikes in Valencia. It can be downl
 
 <p align="center">
     <a href="https://apps.apple.com/app/bicivalencia/id1529249281">
-        <img src="AppStore.png" height=40>
+        <img src="AppStore.png" height=54>
     </a>
 </p>
 
