@@ -1,7 +1,4 @@
-<p align="center">
-    <img src="BiciValenciaScreenshots.png"
-      width=700>
-</p>
+![BiciValencia Screenshots](/BiciValenciaScreenshots.png)
 
 # BiciValencia App
 
@@ -23,7 +20,7 @@ A simple iOS app that displays information on bikes in Valencia. It can be downl
 
 ## Outline
 
-The app shows a map centered in Valencia, displaying the Valenbisi stations, and the bike network.
+The app shows a map centered in Valencia, displaying the Valenbisi stations, bike racks, and the bike network.
 
 The data is provided by the Valencia City Council's open data portal to show the lastest available information.
 
